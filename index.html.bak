@@ -28,6 +28,7 @@
     </header>
 
     <!-- home section design  -->
+	<center>
     <section class="home" id="home">
         <div class="home-content">
             <h3>Welcome to RG Apps official site!</h3>
@@ -37,10 +38,9 @@
             <p>&nbsp; &nbsp; There are 3 apps RG Movies, RG Series and RG Anime, all of them will provide you unlimited enjoyment for free. ITS AD FREE. Our App is 100% Safe and Secure and it is available to every Platform.</p>
             </div>
         </div>
-        <div class="home-img">
-            <img src="images/nobglogo.png" alt="">
         </div>
     </section>
+	</center>
 
     <!-- movies section  -->
     <section class="movies" id="movies">

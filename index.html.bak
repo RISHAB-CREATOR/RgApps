@@ -62,6 +62,7 @@
     </section>
 	</center
     <!-- series section  -->
+	<center>
     <section class="series" id="series">
         <div class="about-img">
             <img src="images/series.png" alt="">
@@ -70,13 +71,15 @@
             <h2 class="heading">RG <span>Series</span></h2>
             <h3>Use this to watch any Series!</h3>
             <p>&nbsp; &nbsp; ITS TOTALLY SAFE AND 100% SECURE AND AD FREE TOO, IT SUPPORT EVERY PLATFORM.</p>
-            <a href="#" class="btn">Android APK 📱</a>
+            <a href="#" class="btn">Android APK 📱</a><p>&nbsp; </pa>
             <a href="#" class="btn">Windows PC 💻</a>
             <a href="#" class="btn">Android TV 📺</a>
             <a href="#" class="btn">Webview for ios and mac 🍎</a>
         </div>
     </section>
+	</center>
     <!-- anime section  -->
+	<center>
     <section class="anime" id="anime">
         <div class="about-img">
             <img src="images/anime.png" alt="">
@@ -94,6 +97,7 @@
             <a href="#" class="btn">Webview for ios and mac 🍎</a>
         </div>
     </section>
+	</center>
     <!-- Service secvtion  -->
     <section class="services" id="services">
         <h2 class="heading">Our <span>Services</span></h2>

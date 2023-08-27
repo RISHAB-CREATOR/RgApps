@@ -104,22 +104,19 @@
             <div class="services-box">
                 <i class='bx bxs-paint'></i>
                 <h3>Graphic Design</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, officia tempore. Dolorem
-                    tempore neque dolorum odio earum, asperiores nisi</p>
+                <p>No bulky designs, our apps have minimal and clean ui.</p>
                 <a href="#" class="btn">Read More</a>
             </div>
             <div class="services-box">
                 <i class='bx bx-code-alt'></i>
                 <h3>Web Development</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, officia tempore. Dolorem
-                    tempore neque dolorum odio earum, asperiores nisi</p>
+                <p>100% uptime, if you got any issue then contact us immediately</p>
                 <a href="#" class="btn">Read More</a>
             </div>
             <div class="services-box">
                 <i class='bx bxs-data'></i>
                 <h3>Database Managment</h3>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, officia tempore. Dolorem
-                    tempore neque dolorum odio earum, asperiores nisi</p>
+                <p>We are 100% Safe and Secure, we dont store any of your precious data.</p>
                 <a href="#" class="btn">Read More</a>
             </div>
         </div>

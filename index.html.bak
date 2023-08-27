@@ -51,7 +51,7 @@
 			 <img src='images/movies.png' width="50%" height="50%"
         </div>
         <div class="about-content">
-            <h2 class="heading">RG <span>Movies</span></h2>
+		<h2><center class="heading">RG <span>Movies</span></center></h2>
             <h3>Use this to watch any Movie!</h3>
             <p>&nbsp; &nbsp; ITS TOTALLY SAFE AND 100% SECURE AND AD FREE TOO, IT SUPPORT EVERY PLATFORM.</p>
             <a href="#" class="btn">Android APK 📱</a><p>&nbsp; </pa>
@@ -68,7 +68,7 @@
             <img src="images/series.png" alt="">
         </div>
         <div class="about-content">
-            <h2 class="heading">RG <span>Series</span></h2>
+            <h2><center class="heading">RG <span>Series</span></center></h2>
             <h3>Use this to watch any Series!</h3>
             <p>&nbsp; &nbsp; ITS TOTALLY SAFE AND 100% SECURE AND AD FREE TOO, IT SUPPORT EVERY PLATFORM.</p>
             <a href="#" class="btn">Android APK 📱</a><p>&nbsp; </pa>
@@ -85,16 +85,13 @@
             <img src="images/anime.png" alt="">
         </div>
         <div class="about-content">
-            <h2 class="heading">RG <span>Anime</span></h2>
+		<h2><center class="heading">RG <span>Anime</span></center></h2>
             <h3>Use this to watch any Anime!</h3>
             <p>&nbsp; &nbsp; ITS TOTALLY SAFE AND 100% SECURE AND AD FREE TOO, IT SUPPORT EVERY PLATFORM.</p>
-            <a href="#" class="btn">Android APK 📱</a>
-            <p>&nbsp; &nbsp; </p>
-            <a href="#" class="btn">Windows PC 💻</a>
-            <p>&nbsp; &nbsp; </p>
-            <a href="#" class="btn">Android TV 📺</a>
-            <p>&nbsp; &nbsp; </p>
-            <a href="#" class="btn">Webview for ios and mac 🍎</a>
+            <a href="#" class="btn">Android APK 📱</a><p>&nbsp; </pa>
+            <a href="#" class="btn">Windows PC 💻</a><p>&nbsp; </pa>
+            <a href="#" class="btn">Android TV 📺</a><p>&nbsp; </pa>
+            <a href="#" class="btn">Webview for ios and mac 🍎</a><p>&nbsp; </pa>
         </div>
     </section>
 	</center>
@@ -104,19 +101,19 @@
         <div class="services-container">
             <div class="services-box">
                 <i class='bx bxs-paint'></i>
-                <h3>Graphic Design</h3>
+                <h3>Graphic Design?</h3>
                 <p>No bulky designs, our apps have minimal and clean ui.</p>
                 <a href="#" class="btn">Read More</a>
             </div>
             <div class="services-box">
                 <i class='bx bx-code-alt'></i>
-                <h3>Web Development</h3>
+                <h3>Web Development?</h3>
                 <p>100% uptime, if you got any issue then contact us immediately</p>
                 <a href="#" class="btn">Read More</a>
             </div>
             <div class="services-box">
                 <i class='bx bxs-data'></i>
-                <h3>Database Managment</h3>
+                <h3>Security?</h3>
                 <p>We are 100% Safe and Secure, we dont store any of your precious data.</p>
                 <a href="#" class="btn">Read More</a>
             </div>
